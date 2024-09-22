@@ -1,0 +1,20 @@
+/* styles.css */
+body {
+    background-color: #f0f0f0;
+}
+
+#canvas {
+    border: 1px solid #ccc;
+}
+
+#mensaje {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+}
+
+#cancion {
+    width: 100%;
+    margin-top: 20px;
+}
